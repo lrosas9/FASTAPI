@@ -1,7 +1,5 @@
 import "react"
 
 export function Layout(){
-    return<>
-    
-    </>
+    return <></>
 }
